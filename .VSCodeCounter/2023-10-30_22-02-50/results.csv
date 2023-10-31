@@ -1,0 +1,37 @@
+"filename", "language", "JavaScript", "JSON", "comment", "blank", "total"
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\package-lock.json", "JSON", 0, 2325, 0, 1, 2326
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\package.json", "JSON", 0, 28, 0, 1, 29
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\app.js", "JavaScript", 27, 0, 0, 11, 38
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\authController.js", "JavaScript", 26, 0, 0, 5, 31
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\clientesController.js", "JavaScript", 106, 0, 0, 12, 118
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\inventarioController.js", "JavaScript", 95, 0, 0, 9, 104
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\pedidosController.js", "JavaScript", 106, 0, 0, 8, 114
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\productosController.js", "JavaScript", 96, 0, 0, 12, 108
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\usuariosController.js", "JavaScript", 104, 0, 8, 22, 134
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Clientes.js", "JavaScript", 51, 0, 0, 8, 59
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Inventario.js", "JavaScript", 43, 0, 0, 10, 53
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Pedidos.js", "JavaScript", 65, 0, 0, 12, 77
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Productos.js", "JavaScript", 43, 0, 0, 10, 53
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\User.js", "JavaScript", 18, 0, 0, 4, 22
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\db.js", "JavaScript", 19, 0, 0, 1, 20
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\sequelize.config.js", "JavaScript", 11, 0, 0, 3, 14
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\AuthUsers.js", "JavaScript", 23, 0, 0, 4, 27
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\authMiddleware.js", "JavaScript", 30, 0, 0, 7, 37
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\authUser.js", "JavaScript", 12, 0, 0, 3, 15
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\Productos.model.js", "JavaScript", 44, 0, 0, 7, 51
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\clientes.model.js", "JavaScript", 34, 0, 0, 7, 41
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\inventario.model.js", "JavaScript", 30, 0, 0, 6, 36
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\pedidos.model.js", "JavaScript", 39, 0, 0, 10, 49
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\users.model.js", "JavaScript", 30, 0, 1, 4, 35
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\authService.js", "JavaScript", 33, 0, 0, 5, 38
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\clientesService.js", "JavaScript", 80, 0, 0, 8, 88
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\inventarioService.js", "JavaScript", 51, 0, 0, 9, 60
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\pedidosService.js", "JavaScript", 61, 0, 1, 15, 77
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\productosService.js", "JavaScript", 51, 0, 0, 9, 60
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\authRoutes.js", "JavaScript", 6, 0, 136, 10, 152
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\clientesRoutes.js", "JavaScript", 11, 0, 208, 14, 233
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\inventarioRoutes.js", "JavaScript", 10, 0, 211, 16, 237
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\pedidosRoutes.js", "JavaScript", 11, 0, 316, 17, 344
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\productosRoutes.js", "JavaScript", 10, 0, 320, 10, 340
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\swagger.js", "JavaScript", 28, 0, 5, 6, 39
+"Total", "-", 1404, 2353, 1206, 296, 5259

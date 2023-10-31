@@ -1,0 +1,71 @@
+Date : 2023-10-30 22:02:50
+Directory : c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend
+Total : 35 files,  3757 codes, 1206 comments, 296 blanks, all 5259 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      2,353 |          0 |          2 |      2,355 |
+| JavaScript |         33 |      1,404 |      1,206 |        294 |      2,904 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         35 |      3,757 |      1,206 |        296 |      5,259 |
+| . (Files)                                                                                 |          2 |      2,353 |          0 |          2 |      2,355 |
+| src                                                                                       |         33 |      1,404 |      1,206 |        294 |      2,904 |
+| src (Files)                                                                               |          1 |         27 |          0 |         11 |         38 |
+| src\controllers                                                                           |          6 |        533 |          8 |         68 |        609 |
+| src\database                                                                              |          7 |        250 |          0 |         48 |        298 |
+| src\middleware                                                                            |          3 |         65 |          0 |         14 |         79 |
+| src\models                                                                                |          5 |        177 |          1 |         34 |        212 |
+| src\services                                                                              |          5 |        276 |          1 |         46 |        323 |
+| src\v1                                                                                    |          6 |         76 |      1,196 |         73 |      1,345 |
+| src\v1 (Files)                                                                            |          1 |         28 |          5 |          6 |         39 |
+| src\v1\routes                                                                             |          5 |         48 |      1,191 |         67 |      1,306 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                  | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\package-lock.json                       | JSON       |      2,325 |          0 |          1 |      2,326 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\package.json                            | JSON       |         28 |          0 |          1 |         29 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\app.js                              | JavaScript |         27 |          0 |         11 |         38 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\authController.js       | JavaScript |         26 |          0 |          5 |         31 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\clientesController.js   | JavaScript |        106 |          0 |         12 |        118 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\inventarioController.js | JavaScript |         95 |          0 |          9 |        104 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\pedidosController.js    | JavaScript |        106 |          0 |          8 |        114 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\productosController.js  | JavaScript |         96 |          0 |         12 |        108 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\controllers\usuariosController.js   | JavaScript |        104 |          8 |         22 |        134 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Clientes.js                | JavaScript |         51 |          0 |          8 |         59 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Inventario.js              | JavaScript |         43 |          0 |         10 |         53 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Pedidos.js                 | JavaScript |         65 |          0 |         12 |         77 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\Productos.js               | JavaScript |         43 |          0 |         10 |         53 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\User.js                    | JavaScript |         18 |          0 |          4 |         22 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\db.js                      | JavaScript |         19 |          0 |          1 |         20 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\database\sequelize.config.js        | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\AuthUsers.js             | JavaScript |         23 |          0 |          4 |         27 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\authMiddleware.js        | JavaScript |         30 |          0 |          7 |         37 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\middleware\authUser.js              | JavaScript |         12 |          0 |          3 |         15 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\Productos.model.js           | JavaScript |         44 |          0 |          7 |         51 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\clientes.model.js            | JavaScript |         34 |          0 |          7 |         41 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\inventario.model.js          | JavaScript |         30 |          0 |          6 |         36 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\pedidos.model.js             | JavaScript |         39 |          0 |         10 |         49 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\models\users.model.js               | JavaScript |         30 |          1 |          4 |         35 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\authService.js             | JavaScript |         33 |          0 |          5 |         38 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\clientesService.js         | JavaScript |         80 |          0 |          8 |         88 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\inventarioService.js       | JavaScript |         51 |          0 |          9 |         60 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\pedidosService.js          | JavaScript |         61 |          1 |         15 |         77 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\services\productosService.js        | JavaScript |         51 |          0 |          9 |         60 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\authRoutes.js             | JavaScript |          6 |        136 |         10 |        152 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\clientesRoutes.js         | JavaScript |         11 |        208 |         14 |        233 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\inventarioRoutes.js       | JavaScript |         10 |        211 |         16 |        237 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\pedidosRoutes.js          | JavaScript |         11 |        316 |         17 |        344 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\routes\productosRoutes.js        | JavaScript |         10 |        320 |         10 |        340 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\Backend\src\v1\swagger.js                       | JavaScript |         28 |          5 |          6 |         39 |
+| Total                                                                                     |            |      3,757 |      1,206 |        296 |      5,259 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
